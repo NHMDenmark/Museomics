@@ -8,7 +8,9 @@ Here you can:
 <details>
 <summary>See commonly used protocols</summary>
 <br>
-* Bird people use [Santa Cruz single stranded library prep for ancient DNA](https://www.protocols.io/view/santa-cruz-reaction-scr-single-stranded-ancient-dn-d4sc8waw.html)
+  
+* [Santa Cruz single stranded library prep for ancient DNA](https://www.protocols.io/view/santa-cruz-reaction-scr-single-stranded-ancient-dn-d4sc8waw.html) (used by Pete Hosner and bird genomics group) 
+
 </details>
 
 <details>
