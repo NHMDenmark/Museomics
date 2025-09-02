@@ -16,13 +16,17 @@ Here you can:
 <details>
 <summary>Order Supplies</summary>
 <br>
+  
 * [This link might be a survey that goes to airtable]()
+
 </details>
 
 <details>
 <summary>Read about our work</summary>
 <br>
+
 * [Link to publication from our group]()
+
 </details>
 
 For more information contact museomics laboratory manager [Rebecca Clement](rc@snm.ku.dk) 
