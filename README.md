@@ -26,3 +26,5 @@ Here you can:
 </details>
 
 For more information contact museomics laboratory manager [Rebecca Clement](rc@snm.ku.dk) 
+
+![logo](images/redlogodownload.png)
