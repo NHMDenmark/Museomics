@@ -14,6 +14,22 @@ Here you can:
 </details>
 
 <details>
+<summary>Schedule a time to use the laboratory</summary>
+<br>
+  
+* [This link might be a survey that goes to airtable]()
+
+</details>
+
+<details>
+<summary>See a list of available equipment</summary>
+<br>
+  
+* Thermocycler
+
+</details>
+
+<details>
 <summary>Order Supplies</summary>
 <br>
   
