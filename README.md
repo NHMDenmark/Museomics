@@ -24,7 +24,9 @@ Here you can:
 <details>
 <summary>See a list of available equipment</summary>
 <br>
-  
+
+![equipment](images/inventory_ZM.png)
+
 * Centrifuges:
   *	1 large (fits 4 96-well plates)—right now is set up for 50ml tubes—not sure where 96-well plate attachment is
   * Micro star 17R (fits 24 2mL tubes) –able to cool
@@ -59,7 +61,7 @@ Here you can:
   * VWR Analytical Balances scale
   * Oxford nanopore minion
   * Old qPCR machine that DNA Liv doesn’t use anymore (but doesn’t work that well)
-![equipment](images/inventory_ZM.png)
+
 
 </details>
 
