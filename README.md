@@ -17,7 +17,9 @@ Here you can:
 <summary>Schedule a time to use the laboratory</summary>
 <br>
   
-* [This link might be a survey that goes to airtable]()
+* [Book your lab time here](https://kunet.ku.dk/faculty-and-department/snm/research-and-external-consultancies/dnalab/Pages/Booking-calendar.aspx)
+* Make sure to include your name, the workspace you will be using (ie bench, LAF1, LAF2 or fume hood), and any equipment you will need (ie centrifuge, Qubit, incubator)
+* If you do not have access to KU net to book a time, email [Rebecca](rc@snm.ku.dk) to schedule a time.
 
 </details>
 
