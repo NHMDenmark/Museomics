@@ -79,7 +79,11 @@ Here you can:
 <summary>Read about our work</summary>
 <br>
 
-* [Link to publication from our group]()
+* [Mega-Barcoding Projects: Delivering National DNA Barcoding Initiatives for Plants](https://link.springer.com/protocol/10.1007/978-1-0716-3581-0_27)
+* [Megabarcoding reveals a tale of two very different dark taxa along the same elevational gradient](https://www.biorxiv.org/content/10.1101/2024.04.29.591578v1.abstract)
+* [Improving the gold standard in NCBI GenBank and related databases: DNA sequences from type specimens and type strains](https://academic.oup.com/sysbio/article/73/2/486/7416856)
+
+Send a link to your publication to [Rebecca Clement](rc@snm.ku.dk) to be featured here
 
 </details>
 
