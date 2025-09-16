@@ -79,6 +79,7 @@ Here you can:
 <summary>Read about our work</summary>
 <br>
 
+* [Unlocking natural history collections to improve eDNA reference databases and biodiversity monitoring](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf140/8251452?utm_source=advanceaccess&utm_campaign=bioscience&utm_medium=email)
 * [Mega-Barcoding Projects: Delivering National DNA Barcoding Initiatives for Plants](https://link.springer.com/protocol/10.1007/978-1-0716-3581-0_27)
 * [Megabarcoding reveals a tale of two very different dark taxa along the same elevational gradient](https://www.biorxiv.org/content/10.1101/2024.04.29.591578v1.abstract)
 * [Improving the gold standard in NCBI GenBank and related databases: DNA sequences from type specimens and type strains](https://academic.oup.com/sysbio/article/73/2/486/7416856)
