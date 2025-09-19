@@ -71,7 +71,13 @@ Here you can:
 <summary>Order Supplies</summary>
 <br>
   
-* [This link might be a survey that goes to airtable]()
+To order supplies, send an email to [museomics-lab-orders@snm.ku.dk](museomics-lab-orders@snm.ku.dk). Copy the following table with the information to the body of the email. 
+
+|Date | Company	| Item	|Product code	| Undiscounted Price |	Number of item	|Price in total	| PI |Note|
+|-----|-----|-----|-----|-----|-----|------|------|-----|
+|10/25/2025|Fischer Scientific	|Labcon™ 1.5 mL SuperSpin™ Microcentrifuge Tubes, Sterile, pack of 500	|17537886	 |426.00 kr. |1	|426.00 kr.|	Mark Scherz | Not yet ordered before |
+
+You will receive a return email telling you that your product has been ordered, and a follow-up email when it has been received. If several days have passed and you have not heard anything, please email again.
 
 </details>
 
