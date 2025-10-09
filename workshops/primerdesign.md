@@ -4,5 +4,16 @@ Wednesday, Nov 5. 1-4pm
 
 Prerequisites:
 
-* Install conda/miniconda on your laptop
-* Load the following into your conda environment: obitools, mafft, trimal, cd-hit, seqkit, ecoPrimers, mbc-prime, PrimerProspector
+<details>
+<summary>Install conda/miniconda on your laptop</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>Load the following into your conda environment: obitools, mafft, trimal, cd-hit, seqkit, ecoPrimers, mbc-prime, PrimerProspector</summary>
+<br>
+This is how you dropdown.
+</details>
+
+
