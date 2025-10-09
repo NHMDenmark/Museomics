@@ -6,10 +6,26 @@ Welcome to the github for the Museomics Laboratory for the Natural History Museu
 Here you can:
 
 <details>
+<summary>Access workshop materials</summary>
+<br>
+  
+* [Designing multiplex primer sets](workshops/primerdesign.md)
+
+</details>
+
+<details>
 <summary>See commonly used protocols</summary>
 <br>
   
 * [Santa Cruz single stranded library prep for ancient DNA](https://www.protocols.io/view/santa-cruz-reaction-scr-single-stranded-ancient-dn-d4sc8waw.html) (used by Pete Hosner and bird genomics group) 
+
+</details>
+
+<details>
+<summary>Share bioinformatics scripts</summary>
+<br>
+  
+* [Example script to clean fastq files](scripts/fastq.py) 
 
 </details>
 
