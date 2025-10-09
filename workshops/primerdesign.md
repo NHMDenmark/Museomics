@@ -17,17 +17,17 @@ Hands-on workshop on designing primer sets for multiplex PCR (amplifying multipl
  
 * ###	Tools you can pre-install with conda: 
   *	[mafft](https://anaconda.org/bioconda/mafft)
-  *	 [trimal](https://anaconda.org/bioconda/trimal)
-  *	obitools: https://anaconda.org/bioconda/obitools
-  *	PrimerProspector: https://anaconda.org/bioconda/primerprospector
-  *	cd-hit: https://anaconda.org/bioconda/cd-hit
-  *	seqkit: https://anaconda.org/bioconda/seqkit
-  *	ecoPrimers: https://anaconda.org/bioconda/ecoprimers
-  *	entrez-direct: https://anaconda.org/bioconda/entrez-direct
-  *	emboss: https://anaconda.org/bioconda/emboss
+  *	[trimal](https://anaconda.org/bioconda/trimal)
+  *	[obitools](https://anaconda.org/bioconda/obitools)
+  *	[PrimerProspector](https://anaconda.org/bioconda/primerprospector)
+  *	[cd-hit](https://anaconda.org/bioconda/cd-hit)
+  *	[seqkit](https://anaconda.org/bioconda/seqkit)
+  *	[ecoPrimers](https://anaconda.org/bioconda/ecoprimers)
+  *	[entrez-direct](https://anaconda.org/bioconda/entrez-direct)
+  *	[emboss](https://anaconda.org/bioconda/emboss)
 * ###	Other tools you can install (not available through conda):
-  *	mbc-prime: https://github.com/thackl/mbc-prime
-  *	AliView: http://www.ormbunkar.se/aliview/#DOWNLOAD
+  *	[mbc-prime](https://github.com/thackl/mbc-prime)
+  *	[AliView](http://www.ormbunkar.se/aliview/#DOWNLOAD)
 *	Basic command-line bioinformatics.
 *	Target gene sequences from NCBI (e.g., COI for Insecta) - We'll show how to automatically download reference sequences using Entrez tools.
 
