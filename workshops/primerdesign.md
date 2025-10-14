@@ -10,10 +10,11 @@ Hands-on workshop on designing primer sets for multiplex PCR (amplifying multipl
 * Evaluate specificity across taxa (e.g., families/orders).
 ## Prerequisites
 * For Windows PC, a Linux sub system, see instructions here: https://learn.microsoft.com/en-us/windows/wsl/install
+  * Once wsl has been installed on your pc, open powershell and type `wsl.exe` to use the subsystem
  
-* Laptop with miniconda:
+* Install miniconda on your laptop:
   * How to install miniconda in you Mac/Linux system: https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions
-  * Check installion in the terminal by typing conda --version
+  * Check instalation in the terminal by typing conda --version
  
 * ###	Tools you can pre-install with conda: 
   *	[mafft](https://anaconda.org/bioconda/mafft)
@@ -25,6 +26,13 @@ Hands-on workshop on designing primer sets for multiplex PCR (amplifying multipl
   *	[ecoPrimers](https://anaconda.org/bioconda/ecoprimers)
   *	[entrez-direct](https://anaconda.org/bioconda/entrez-direct)
   *	[emboss](https://anaconda.org/bioconda/emboss)
+
+Note: You can install all of these conda packages in a new environment with the required python version using the following command:
+```
+conda create -n primer python=2.7 mafft trimal obitools PrimerProspector cd-hit seqkit ecoPrimers entrez-direct emboss
+```
+To activate this environment, use the command `conda activate primer`
+
 * ###	Other tools you can install (not available through conda):
   *	[mbc-prime](https://github.com/thackl/mbc-prime)
   *	[AliView](http://www.ormbunkar.se/aliview/#DOWNLOAD)
