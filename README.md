@@ -14,6 +14,14 @@ Here you can:
 </details>
 
 <details>
+<summary>View lab documents</summary>
+<br>
+  
+* [Lab guidelines](docs/LabGuidelines.docx)
+
+</details>
+
+<details>
 <summary>See commonly used protocols</summary>
 <br>
   
