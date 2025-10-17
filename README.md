@@ -87,7 +87,7 @@ Here you can:
 <summary>Order Supplies</summary>
 <br>
   
-To order supplies, send an email to [museomics-lab-orders@snm.ku.dk](museomics-lab-orders@snm.ku.dk). Copy the following table with the information to the body of the email. 
+To order supplies, fill out [this form](https://airtable.com/appHDez1DbJorFNVI/pagmtzJ0hzGIPzj7t/form) or send an email to [museomics-lab-orders@snm.ku.dk](museomics-lab-orders@snm.ku.dk). Copy the following table with the information to the body of the email. 
 
 |Date | Company	| Item	|Product code	| Undiscounted Price |	Number of item	|Price in total	| PI |Note|
 |-----|-----|-----|-----|-----|-----|------|------|-----|
