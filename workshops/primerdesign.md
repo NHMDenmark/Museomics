@@ -10,7 +10,7 @@ Hands-on workshop on designing primer sets for multiplex PCR (amplifying multipl
 * Evaluate specificity across taxa (e.g., families/orders).
 ## Prerequisites
 * For Windows PC, a Linux sub system, see instructions here: https://learn.microsoft.com/en-us/windows/wsl/install
-  * Once wsl has been installed on your pc, open powershell and type `wsl.exe` to use the subsystem
+  * Once wsl has been installed on your pc, open powershell and type `wsl.exe` to use the subsystem or right click on powershell and open ubuntu.
  
 * Install miniconda on your laptop:
   * How to install miniconda in you Mac/Linux system: https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions
