@@ -26,7 +26,7 @@ Here you can:
 <br>
   
 * [Santa Cruz single stranded library prep for ancient DNA](https://www.protocols.io/view/santa-cruz-reaction-scr-single-stranded-ancient-dn-d4sc8waw.html) (used by Pete Hosner and bird genomics group)
-* [HotSHOT DNA extraction](https://www.protocols.io/view/hotshot-dna-extraction-ewov1dbovr24/v1) (rapid and cheap alternative to DNA kits used by Alexey's group on insects and Mark with reptiles)
+* [HotSHOT DNA extraction](https://www.protocols.io/view/hotshot-dna-extraction-ewov1dbovr24/v1) (rapid and cheap alternative to DNA kits used by Alexey's group on insects)
 
 </details>
 
