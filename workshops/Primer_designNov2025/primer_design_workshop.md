@@ -83,19 +83,6 @@ mamba activate primerprospector
 python -c "import platform; print('Architecture:', platform.machine())"
 # Should output: Architecture: x86_64
 
-# If conda environment creation fails, manual installation:
-# Download and extract
-curl -L -O https://sourceforge.net/projects/pprospector/files/pprospector-1.0.1.tar.gz
-tar -xzf pprospector-1.0.1.tar.gz
-# Navigate to the top-level directory
-cd pprospector-1.0.1
-# Install dependencies
-mamba install cogent
-mamba install hdf5 h5py -c conda-forge
-pip install Sphinx
-# Install in the environment
-python setup.py install --install-scripts=$CONDA_PREFIX/bin/
-
 # Common steps for both platforms:
 # Test the installation
 analyze_primers.py -h
