@@ -9,14 +9,14 @@ You'll learn to download sequences, process them, align them, and assess primers
 **Expected Outputs**: Primer sets (TSV/FASTA), coverage summaries, entropy plots, alignments
 **System Requirements**:
 - Linux/Mac/Windows with WSL
-- Miniconda installed: /docs/getting-started/miniconda/install#to-download-an-older-version
+- Miniconda installed: [/docs/getting-started/miniconda/install#to-download-an-older-version](https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions)
 - Basic command-line knowledge
 - **For Apple Silicon Macs**: Rosetta 2 installed (run `softwareupdate --install-rosetta`)
 
 ## Prerequisites
 Before starting, install these tools via conda/mamba:
 
-### Installation of biocanda packages (make sure to install miniconda first: /docs/getting-started/miniconda/install#to-download-an-older-version)
+### Installation of biocanda packages (make sure to install miniconda first: [/docs/getting-started/miniconda/install#to-download-an-older-version](https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions))
 ```bash
 # Required tools
 conda install -c bioconda mafft trimal cd-hit seqkit entrez-direct emboss primer3
@@ -67,8 +67,9 @@ mamba install hdf5 h5py -c conda-forge
 pip install Sphinx
 # Install in the environment
 python setup.py install --install-scripts=$CONDA_PREFIX/bin/
-
+```
 #### Special Installation for Apple Silicon Macs:
+```bash
 # Step 1: Install Rosetta 2 (required for x86_64 emulation)
 softwareupdate --install-rosetta
 
