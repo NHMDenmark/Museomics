@@ -1,6 +1,9 @@
 # Primer Design Workshop: Step-by-Step Tutorial
 # Molecular Barcoding Primer Design for Multiplex PCR
 
+**Author:** Edouard Bessette  
+**Date:** November 4, 2025
+
 ## Workshop Overview
 This tutorial guides you through designing primer sets for molecular barcoding applications.
 You'll learn to download sequences, process them, align them, and assess primers for specificity and coverage.
