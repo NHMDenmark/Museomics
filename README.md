@@ -17,6 +17,7 @@ Here you can:
 <summary>View lab documents</summary>
 <br>
   
+* [lab documents](/docs/)
 * [Lab guidelines](docs/LabGuidelines.docx)
 
 </details>
