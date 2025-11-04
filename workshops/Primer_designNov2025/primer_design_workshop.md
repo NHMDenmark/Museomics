@@ -363,7 +363,7 @@ After completing all steps, you should have:
 ## Next Steps and Applications
 
 1. **Iterate**: Design new primers based on analysis results
-2. **Test in silico**: Use tools like ecoPCR to test primer specificity
+2. **Test in silico**: Use tools like ecoPCR, Primer Blast to test primer specificity
 3. **Wet lab validation**: Test primers in PCR reactions
 4. **Multiplex design**: Combine primers for different genes/regions
 
@@ -372,7 +372,6 @@ After completing all steps, you should have:
 - **No sequences downloaded**: Check your ORGANISM and GENE queries
 - **Alignment fails**: Reduce sequence number or use faster MAFFT options
 - **Memory issues**: Use `cd-hit` with higher similarity threshold
-- **Taxonomy problems**: Ensure obitools is properly installed
 - **Mamba activation fails**: If you get shell initialization errors, run `mamba shell init --shell zsh --root-prefix=~/miniforge3` and restart your terminal
 - **Package not found**: Some tools may not be available for Apple Silicon Macs - check alternatives like ecoPrimers
 - **PrimerProspector installation issues**: 
@@ -388,7 +387,7 @@ After completing all steps, you should have:
 
 - [NCBI Entrez documentation](https://www.ncbi.nlm.nih.gov/books/NBK25501/)
 - [OBITools tutorial](http://metabarcoding.org/obitools/doc/tutorial.html)
-- [Primer design guidelines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1636359/)
+- [Springer article on metabarcoding](https://link.springer.com/article/10.1186/s40168-025-02206-7#Sec2)
 
 ---
 
