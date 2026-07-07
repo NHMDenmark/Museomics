@@ -6,10 +6,41 @@ Welcome to the github for the Museomics Laboratory for the Natural History Museu
 Here you can:
 
 <details>
+<summary>Order Supplies</summary>
+<br>
+  
+To order supplies, fill out [this form](https://airtable.com/appHDez1DbJorFNVI/pagmtzJ0hzGIPzj7t/form) or send an email to [museomics-lab-orders@snm.ku.dk](museomics-lab-orders@snm.ku.dk). Copy the following table with the information to the body of the email. 
+
+|Date | Company	| Item	|Product code	| Undiscounted Price |	Number of item	|Price in total	| PI |Alias|
+|-----|-----|-----|-----|-----|-----|------|------|-----|
+|10/25/2025|Fischer Scientific	|Labcon™ 1.5 mL SuperSpin™ Microcentrifuge Tubes, Sterile, pack of 500	|17537886	 |426.00 kr. |1	|426.00 kr.|	Rebecca Clement | 01234567 |
+
+You will receive a return email telling you that your product has been ordered, and a follow-up email when it has been received. If several days have passed and you have not heard anything, please email again.
+
+See table for commonly used vendors:
+|Laboratory basics | Chemicals	|Extraction kits|
+|-----|-----|-----|
+|[TH Geyer](https://www.thgeyer.com/lab/shop/catalog/search/artikelsuche.action)|[VWR/Aventor](https://www.vwr.com/dk/en/?_gl=1*vdbvsn*_up*MQ..*_ga*MjQ0NTk4ODUwLjE3ODM0MzA2MzM.*_ga_NFWYPDTSMD*czE3ODM0MzA2MzIkbzEkZzAkdDE3ODM0MzA2MzIkajYwJGwwJGgw)|[Qiagen](https://www.qiagen.com/dk)|
+|[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|[BioNordika](https://bionordika.dk/)|
+|[Hounisen](https://www.hounisen.com/)|
+|[VWR/Aventor](https://www.vwr.com/dk/en/?_gl=1*vdbvsn*_up*MQ..*_ga*MjQ0NTk4ODUwLjE3ODM0MzA2MzM.*_ga_NFWYPDTSMD*czE3ODM0MzA2MzIkbzEkZzAkdDE3ODM0MzA2MzIkajYwJGwwJGgw)|
+|[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|
+
+</details>
+
+<details>
 <summary>Access workshop materials</summary>
 <br>
   
 * [Designing multiplex primer sets](workshops/primerdesign.md)
+
+</details>
+<details>
+<summary>Schedule a time to use the laboratory</summary>
+<br>
+
+For now, laboratory will be booked using the physical booking sheets on the doors of the lab.
+
 
 </details>
 
@@ -36,16 +67,6 @@ Here you can:
 <br>
   
 * [Example script to clean fastq files](scripts/fastq.py) 
-
-</details>
-
-<details>
-<summary>Schedule a time to use the laboratory</summary>
-<br>
-  
-* [Book your lab time here](https://kunet.ku.dk/faculty-and-department/snm/research-and-external-consultancies/dnalab/Pages/Booking-calendar.aspx)
-* Make sure to include your name, the workspace you will be using (ie bench, LAF1, LAF2 or fume hood), and any equipment you will need (ie centrifuge, Qubit, incubator)
-* If you do not have access to KU net to book a time, email [Rebecca](rc@snm.ku.dk) to schedule a time.
 
 </details>
 
@@ -90,20 +111,6 @@ Here you can:
   * Oxford nanopore minion
   * Old qPCR machine that DNA Liv doesn’t use anymore (but doesn’t work that well)
 
-
-</details>
-
-<details>
-<summary>Order Supplies</summary>
-<br>
-  
-To order supplies, fill out [this form](https://airtable.com/appHDez1DbJorFNVI/pagmtzJ0hzGIPzj7t/form) or send an email to [museomics-lab-orders@snm.ku.dk](museomics-lab-orders@snm.ku.dk). Copy the following table with the information to the body of the email. 
-
-|Date | Company	| Item	|Product code	| Undiscounted Price |	Number of item	|Price in total	| PI |Note|
-|-----|-----|-----|-----|-----|-----|------|------|-----|
-|10/25/2025|Fischer Scientific	|Labcon™ 1.5 mL SuperSpin™ Microcentrifuge Tubes, Sterile, pack of 500	|17537886	 |426.00 kr. |1	|426.00 kr.|	Mark Scherz | Not yet ordered before |
-
-You will receive a return email telling you that your product has been ordered, and a follow-up email when it has been received. If several days have passed and you have not heard anything, please email again.
 
 </details>
 
