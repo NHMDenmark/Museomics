@@ -18,7 +18,7 @@ To order supplies, fill out [this form](https://airtable.com/appHDez1DbJorFNVI/p
 You will receive a return email telling you that your product has been ordered, and a follow-up email when it has been received. If several days have passed and you have not heard anything, please email again.
 
 See table for commonly used vendors:
-|Laboratory basics | Chemicals	|Extraction kits|
+|Laboratory basics | Chemicals	|Kits|
 |-----|-----|-----|
 |[TH Geyer](https://www.thgeyer.com/lab/shop/catalog/search/artikelsuche.action)|[VWR/Aventor](https://www.vwr.com/dk/en/?_gl=1*vdbvsn*_up*MQ..*_ga*MjQ0NTk4ODUwLjE3ODM0MzA2MzM.*_ga_NFWYPDTSMD*czE3ODM0MzA2MzIkbzEkZzAkdDE3ODM0MzA2MzIkajYwJGwwJGgw)|[Qiagen](https://www.qiagen.com/dk)|
 |[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|[BioNordika](https://bionordika.dk/)|
