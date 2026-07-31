@@ -48,8 +48,9 @@ For now, laboratory will be booked using the physical booking sheets on the door
 <summary>View lab documents</summary>
 <br>
   
-* [lab documents](/docs/)
-* [Lab guidelines](docs/LabGuidelines.docx)
+* [Onboarding](/docs/Onboarding.docx)
+* [Cleaning](/docs/Cleaning.docx)
+* [Sign In](/docs/LabSignIn.docx)
 
 </details>
 
