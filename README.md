@@ -35,6 +35,16 @@ See table for commonly used vendors:
 * [Designing multiplex primer sets](workshops/primerdesign.md)
 
 </details>
+
+<details>
+<summary>View lab documents</summary>
+<br>
+  
+* [Onboarding](/docs/Onboarding.pdf)
+* [Cleaning](/docs/Cleaning.pdf)
+* [Sign In](/docs/LabSignIn.pdf)
+
+</details>
 <details>
 <summary>Schedule a time to use the laboratory</summary>
 <br>
@@ -43,17 +53,6 @@ For now, laboratory will be booked using the physical booking sheets on the door
 
 
 </details>
-
-<details>
-<summary>View lab documents</summary>
-<br>
-  
-* [Onboarding](/docs/Onboarding.docx)
-* [Cleaning](/docs/Cleaning.docx)
-* [Sign In](/docs/LabSignIn.docx)
-
-</details>
-
 <details>
 <summary>See commonly used protocols</summary>
 <br>
