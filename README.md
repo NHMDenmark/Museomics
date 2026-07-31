@@ -6,6 +6,16 @@ Welcome to the github for the Museomics Laboratory for the Natural History Museu
 Here you can:
 
 <details>
+<summary>View lab documents</summary>
+<br>
+  
+* [Onboarding](/docs/Onboarding.pdf)
+* [Cleaning](/docs/Cleaning.pdf)
+* [Sign In](/docs/LabSignIn.pdf)
+
+</details>
+
+<details>
 <summary>Order Supplies</summary>
 <br>
   
@@ -36,15 +46,6 @@ See table for commonly used vendors:
 
 </details>
 
-<details>
-<summary>View lab documents</summary>
-<br>
-  
-* [Onboarding](/docs/Onboarding.pdf)
-* [Cleaning](/docs/Cleaning.pdf)
-* [Sign In](/docs/LabSignIn.pdf)
-
-</details>
 <details>
 <summary>Schedule a time to use the laboratory</summary>
 <br>
