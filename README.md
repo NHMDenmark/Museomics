@@ -1,7 +1,8 @@
-# Museomics
-Molecular Laboratory for the Natural History Museum of Denmark
-
+# Museomics Laboratory at the Natural History Museum of Denmark
 Welcome to the github for the Museomics Laboratory for the Natural History Museum of Denmark.
+
+Museum collections and herbaria contain specimens that provide valuable insights into the past. Museomics employs molecular methods to recover genetic material from these historical specimens, enabling researchers to investigate biodiversity, trait evolution, extinction, disease, and environmental change across decades or even centuries. Obtaining DNA from museum specimens can be challenging due to degradation caused by age, preservation methods, or limited source material. Despite these challenges, the NHMD Museomics Facility supports researchers through DNA extraction, purification, quantification, and nanopore sequencing of museum specimens and related research projects. Through innovative "megabarcoding" approaches, we also enable the cost-effective sequencing of thousands of DNA barcodes from individual organisms, facilitating rapid biodiversity assessment and documentation. Together, these approaches unlock the genetic potential of museum collections and provide new opportunities to answer questions about the past, present, and future of biodiversity.
+
 
 Here you can:
 
