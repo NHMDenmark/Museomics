@@ -28,6 +28,8 @@ To order supplies, send an email to [museomics-lab-orders@snm.ku.dk](museomics-l
 
 You will receive a return email telling you that your product has been ordered, and a follow-up email when it has been received. If several days have passed and you have not heard anything, please email again.
 
+To order primers: Contact Rebecca for the lab login at [Eurofins](https://eurofinsgenomics.eu/en/custom-dna-sequencing/additional-services/sequencing-primers/). Design your primers and add to cart. Email Rebecca with your alias and she will submit the order.
+
 See table for commonly used vendors:
 |Laboratory basics | Chemicals	|Kits|
 |-----|-----|-----|
