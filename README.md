@@ -13,6 +13,8 @@ Here you can:
 * [Onboarding](/docs/Onboarding.pdf)
 * [Cleaning](/docs/Cleaning.pdf)
 * [Sign In](/docs/LabSignIn.pdf)
+* [Taq tracking](TaqUsageTracking.pdf)
+* [Qubit tracking](QubitUsageTracking.pdf)
 
 </details>
 
