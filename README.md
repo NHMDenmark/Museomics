@@ -37,7 +37,7 @@ See table for commonly used vendors:
 |[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|[BioNordika](https://bionordika.dk/)|
 |[Hounisen](https://www.hounisen.com/)|
 |[VWR/Aventor](https://www.vwr.com/dk/en/?_gl=1*vdbvsn*_up*MQ..*_ga*MjQ0NTk4ODUwLjE3ODM0MzA2MzM.*_ga_NFWYPDTSMD*czE3ODM0MzA2MzIkbzEkZzAkdDE3ODM0MzA2MzIkajYwJGwwJGgw)|
-|[Fisher Scientific](https://www.fishersci.dk/dk/en/home.html)|
+|[Thermo Fisher](https://www.thermofisher.com/dk/en/home.html) (PCR reagents)|
 
 </details>
 
